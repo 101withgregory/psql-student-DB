@@ -298,3 +298,4 @@ psql --username freecodecamp --dbname postgres
 \l
 \ls
 rm students_test.csv
+rm courses_test.csv
